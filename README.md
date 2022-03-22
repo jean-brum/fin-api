@@ -1,10 +1,11 @@
 # fin-api
 Repositório dedicado ao curso da Rocketseat Ignite.
 
-FinApi - Financeia
+FinApi - Financeira
+
 Requisitos
 
-   * [] Deve ser possível criar umma conta
+   * [] Deve ser possível criar uma conta
    * [] Deve ser possível buscar o extrato bancário do cliente
    * [] Deve ser possível realizar um depósito
    * [] Deve ser possível realizar um saque
