@@ -1,0 +1,25 @@
+{
+  "name": "fin-api",
+  "version": "1.0.0",
+  "description": "Repositório dedicado ao curso da Rocketseat Ignite.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/jean-brum/fin-api.git",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jean-brum/fin-api/issues"
+  },
+  "homepage": "https://github.com/jean-brum/fin-api#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
